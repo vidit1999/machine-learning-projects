@@ -5,3 +5,4 @@
 * Supreme Court Judgement Prediction
 * Song Popularity Prediction
 * Cyber Bullying Classification
+* Spam Email Prediction
