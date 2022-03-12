@@ -6,3 +6,4 @@
 * Song Popularity Prediction
 * Cyber Bullying Classification
 * Spam Email Prediction
+* Fraudulent Transactions Prediction
